@@ -41,4 +41,4 @@ This project was built to practice:
 - Real-time strength meter
 
 ## Author
-Zeba
+Zeba Mistry "@zebacodess"
